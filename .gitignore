@@ -2,3 +2,5 @@
 .vscode/ipch/f5817f61418901f2/HELLOWORLD.ipch
 .vscode/ipch/f5817f61418901f2/mmap_address.bin
 *.exe
+.vscode/ipch/e81d79f530c12326/mmap_address.bin
+.vscode/ipch/e81d79f530c12326/FIZZBUZZ.ipch
